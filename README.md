@@ -1,4 +1,6 @@
-# Wayland-Nested
+# Nested Wayland
+Run a Desktop environment in a window!
+
 sch: https://www.google.com/search?q=nested+wayland
 
 # Gnome
