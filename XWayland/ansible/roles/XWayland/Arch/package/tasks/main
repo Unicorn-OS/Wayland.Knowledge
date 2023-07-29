@@ -1,0 +1,7 @@
+---
+
+- name: Install XWayland
+  community.general.pacman:
+    name:
+      - xorg-xwayland
+    state: present
